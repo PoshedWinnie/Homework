@@ -1,8 +1,8 @@
 name= 'Tailo'
 print('Name:',name)
-age= 21
+age= 20
 print('Age:', age)
-new_age= 22
-print('New Age', new_age)
+new_age= age + 2
+print('New Age:',new_age)
 is_student= True
 print('Is Student:', is_student)
